@@ -27,6 +27,7 @@ time, mark, audio, video {
   border: 0;
   font: inherit;
   vertical-align: baseline;
+  background: #FFA500;
 }
 
 /* HTML5 display-role reset for older browsers */
